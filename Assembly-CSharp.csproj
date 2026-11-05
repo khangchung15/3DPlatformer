@@ -71,8 +71,8 @@
     <Compile Include="Assets\Scripts\Pickups\HealthPickup.cs" />
     <Compile Include="Assets\Scripts\Enemies\GroundEnemy.cs" />
     <Compile Include="Assets\Scripts\Keys&amp;Doors\KeyRing.cs" />
-    <Compile Include="Assets\Scripts\Pickups\Pickup.cs" />
     <Compile Include="Assets\Scripts\Health&amp;Damage\BossHealth.cs" />
+    <Compile Include="Assets\Scripts\Pickups\Pickup.cs" />
     <Compile Include="Assets\DialogueSystem\Scripts\Dialogue\DialogueSentence.cs" />
     <Compile Include="Assets\Scripts\Utility\CollisionEventCaller.cs" />
     <Compile Include="Assets\Scripts\Enemies\FlyingEnemy.cs" />
